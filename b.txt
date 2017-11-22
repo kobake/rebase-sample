@@ -1,2 +1,0 @@
-zero1 b
-zero2 b
